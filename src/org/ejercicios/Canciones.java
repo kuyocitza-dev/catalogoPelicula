@@ -1,3 +1,4 @@
+package org.ejercicios;
 public class Canciones {
     private String titulo;
     private String autor;

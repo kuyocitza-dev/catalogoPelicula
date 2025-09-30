@@ -6,7 +6,8 @@ public class controladorPelicula{
     Pelicula obj;
     Scanner lectura = new Scanner(System.in);
 
-    public controladorPelicula(){}
+    public controladorPelicula(){
+    }
 
     public controladorPelicula(Pelicula obj){
         this.obj = obj;
@@ -36,10 +37,10 @@ public class controladorPelicula{
     
     public int catalogo(){
         System.out.println("Que deceas hacer: ");
-        System.out.println("1- agregar elementos");
-        System.out.println("2- eliminar elementos");
+        System.out.println("1- agregar Pelicula");
+        System.out.println("2- eliminar Pelicula");
         System.out.println("3- buscar por nombre");
-        System.out.println("4- listar todos los elementos");
+        System.out.println("4- listar todas las peliculas");
         System.out.println("5- salir");
         return lectura.nextInt();
         

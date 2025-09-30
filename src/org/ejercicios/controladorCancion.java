@@ -1,3 +1,4 @@
+package org.ejercicios;
 import java.util.Scanner;
 
 public class controladorCancion {
