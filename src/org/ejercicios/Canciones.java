@@ -55,4 +55,4 @@ public class Canciones {
         this.autor = autor2;
         this.Identificador = identificador2;}
 
-    }
+    }//en esta clase estan los atributos y metodos get y set de las canciones

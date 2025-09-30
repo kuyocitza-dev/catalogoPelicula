@@ -4,4 +4,4 @@ public class Main {
         Catalogo catalogo = new Catalogo();
         controladorCancion controlador = new controladorCancion();
     }
-}
+}//nuestro main solo se encarga de iniciar el catalogo y el controlador

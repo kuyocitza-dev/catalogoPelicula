@@ -18,4 +18,4 @@ public class controladorCancion {
          int calificacion;
          return calificacion = scanner.nextInt();
     }
-}
+}//esta clase es la encargada de manejar la entrada de datospara las canciones

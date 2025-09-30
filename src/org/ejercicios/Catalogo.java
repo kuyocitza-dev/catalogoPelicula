@@ -79,4 +79,4 @@ public class Catalogo {
                 break;
         }
     }
-}
+}//esta clase es la encargada de manejar el catalogo de canciones, agregar, eliminar, buscar y mostrar todas las canciones
